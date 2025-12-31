@@ -8,3 +8,8 @@
 .second {
     background-color: hsl(60, 100%, 50%);
 }
+
+.font {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+}
