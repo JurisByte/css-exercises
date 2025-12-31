@@ -4,3 +4,7 @@
     background-color: black;
     color: rgb(232, 221, 221);
 }
+
+.second {
+    background-color: hsl(60, 100%, 50%);
+}
