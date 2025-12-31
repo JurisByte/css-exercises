@@ -1,15 +1,15 @@
 /* Add CSS Styling */
+.inverted,
+.fancy {
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    font-size: 28px;
+}
 
-.first {
+.inverted {
     background-color: black;
     color: rgb(247, 241, 241);
 }
 
-.second {
+.fancy {
     background-color: hsl(60, 100%, 50%);
-}
-
-.font {
-    font-size: 28px;
-    font-family: 'Helvetica', 'Times New Roman', sans-serif;
 }
